@@ -270,8 +270,6 @@ Note:
  
 - DB隔离：单个MySQL实例最好单个业务账号使用，避免多个业务使用同一个账号，写入同一个DB
 - 资源隔离：已灰度MySQL套餐模式，物理机资源做了隔离
-  
-> MySQL开发规范：[MySQL开发规范](https://xiaomi.f.mioffice.cn/docs/dock40N2MwwTt6PLWo4bF50sfId)
 
 
 ## 监控&自动化
